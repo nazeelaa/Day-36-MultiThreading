@@ -1,0 +1,14 @@
+F:\vs\EmployeePayrollSystem\bin\Debug\netcoreapp3.1\EmployeePayrollSystem.exe
+F:\vs\EmployeePayrollSystem\bin\Debug\netcoreapp3.1\EmployeePayrollSystem.deps.json
+F:\vs\EmployeePayrollSystem\bin\Debug\netcoreapp3.1\EmployeePayrollSystem.runtimeconfig.json
+F:\vs\EmployeePayrollSystem\bin\Debug\netcoreapp3.1\EmployeePayrollSystem.runtimeconfig.dev.json
+F:\vs\EmployeePayrollSystem\bin\Debug\netcoreapp3.1\EmployeePayrollSystem.dll
+F:\vs\EmployeePayrollSystem\bin\Debug\netcoreapp3.1\EmployeePayrollSystem.pdb
+F:\vs\EmployeePayrollSystem\obj\Debug\netcoreapp3.1\EmployeePayrollSystem.csproj.AssemblyReference.cache
+F:\vs\EmployeePayrollSystem\obj\Debug\netcoreapp3.1\EmployeePayrollSystem.GeneratedMSBuildEditorConfig.editorconfig
+F:\vs\EmployeePayrollSystem\obj\Debug\netcoreapp3.1\EmployeePayrollSystem.AssemblyInfoInputs.cache
+F:\vs\EmployeePayrollSystem\obj\Debug\netcoreapp3.1\EmployeePayrollSystem.AssemblyInfo.cs
+F:\vs\EmployeePayrollSystem\obj\Debug\netcoreapp3.1\EmployeePayrollSystem.csproj.CoreCompileInputs.cache
+F:\vs\EmployeePayrollSystem\obj\Debug\netcoreapp3.1\EmployeePayrollSystem.dll
+F:\vs\EmployeePayrollSystem\obj\Debug\netcoreapp3.1\EmployeePayrollSystem.pdb
+F:\vs\EmployeePayrollSystem\obj\Debug\netcoreapp3.1\EmployeePayrollSystem.genruntimeconfig.cache
